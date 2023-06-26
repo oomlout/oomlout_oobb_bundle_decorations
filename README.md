@@ -1,0 +1,2 @@
+# oomlout_oobb_bundle_decorations
+oobb compatible decorations
